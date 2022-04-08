@@ -1,0 +1,7 @@
+ubtp:
+  mtu: 572
+  port: 8100
+  centers: 47.100.177.214:8010
+logging:
+  level:
+    root: INFO
