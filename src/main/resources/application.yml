@@ -2,6 +2,10 @@ ubtp:
   mtu: 572
   port: 8101
   centers: 47.100.177.214:8001
+server:
+  port: 8103
+  servlet:
+    context-path: "/"
 logging:
   level:
     root: INFO
